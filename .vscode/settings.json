@@ -1,0 +1,14 @@
+{
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#7C21D7",
+    "statusBar.debuggingBackground": "#7C21D7",
+    "statusBar.noFolderBackground": "#7C21D7",
+    "statussBar.prominentBackground": "#7C21D7",
+    "activityBar.background": "#61001F",
+    "titleBar.activeBackground": "#88002C",
+    "titleBar.activeForeground": "#FFFBFC"
+  }
+}
